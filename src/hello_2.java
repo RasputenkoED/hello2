@@ -2,6 +2,6 @@
 public class hello_2 {
 
 	public static void main(String[] args) {
-		System.out.println("Добро\n пожаловать\n в мир\n Java!");
+		System.out.println("а=1, c=a+1 m=2, n=3 решение уравнений\n b=6, d=b*2-1 p=4, g=5 нахождение корней");
 	}
 }
